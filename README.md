@@ -1,5 +1,4 @@
-# iuk-projects
-Trailer Management
+# Trailer Management
 
 Trailer Management is meant to run on a local server running Apache and MySQL
 
